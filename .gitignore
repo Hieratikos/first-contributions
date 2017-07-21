@@ -42,3 +42,5 @@ coverage/
 #
 config.json
 /.vs
+/first-contributions.iml
+first-contributions.iml
